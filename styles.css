@@ -9,13 +9,14 @@ p{
 }
 .header{
     color:blue;
+    font-size: large;
 }
 #homeParagraph{
     color:aqua;
     
 }
 ul{
-    color:black;
+    background-color: #00ffff;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border:cornflowerblue;
     width: 50%;
