@@ -2,6 +2,9 @@
     color:blue;
     font-size: large;
 }
+.header + p{
+    color:blueviolet;
+}
 h1,h2,h3,h4,h5,h6{
     color:red;
     font-family: 'Times New Roman', Times, serif;
