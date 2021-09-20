@@ -2,8 +2,8 @@
     color:blue;
     font-size: large;
 }
-.header + p{
-    color:blueviolet;
+body ul{
+    color:red;
 }
 #homeParagraph{
     color:aqua;
