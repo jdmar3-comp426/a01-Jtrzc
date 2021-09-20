@@ -13,6 +13,7 @@ p{
 }
 #homeParagraph{
     color:aqua;
+    font-size: small;
     
 }
 ul{
@@ -24,4 +25,7 @@ ul{
 }
 a:hover{
     color:#8a5b3d;
+}
+li{
+    font-weight: bold;
 }
