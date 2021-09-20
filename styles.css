@@ -5,19 +5,18 @@
 .header + p{
     color:blueviolet;
 }
-h1,h2,h3,h4,h5,h6{
+#homeParagraph{
+    color:aqua;
+    font-size: small;
+    
+}
+h1, h2, h3, h4, h5, h6{
     color:red;
     font-family: 'Times New Roman', Times, serif;
 }
 p{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
-    
-}
-#homeParagraph{
-    color:aqua;
-    font-size: small;
-    
 }
 ul{
     background-color: #00ffff;
@@ -31,4 +30,10 @@ a:hover{
 }
 li{
     font-weight: bold;
+}
+body{
+    padding: auto;
+}
+*{
+    text-align: justify;
 }
