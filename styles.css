@@ -1,0 +1,26 @@
+h1,h2,h3,h4,h5,h6{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.header{
+    color:blue;
+}
+#homeParagraph{
+    color:aqua;
+    
+}
+ul{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border:cornflowerblue;
+    width: 50%;
+    height: 10%;
+}
+a:hover{
+    color:#8a5b3d;
+}
